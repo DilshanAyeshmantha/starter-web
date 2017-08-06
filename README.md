@@ -16,7 +16,9 @@ As this is a web application, this can be launch in a web server as well as in l
 
 ## How to contribute
 
-Add new freatures to the current project by forking the git repository 
+Add new freatures to the current project by forking the git repository
+
+Please fork tis repository and then issue Pull request 
 
 ### Copyrighs
 
