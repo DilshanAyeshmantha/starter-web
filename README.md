@@ -17,3 +17,7 @@ As this is a web application, this can be launch in a web server as well as in l
 ## How to contribute
 
 Add new freatures to the current project by forking the git repository 
+
+### Copyrighs
+
+Copyrights Git.Training.com All rights are reserved.
